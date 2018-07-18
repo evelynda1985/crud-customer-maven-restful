@@ -1,0 +1,9 @@
+1. Copy this project to have the initial set up and if you don't want to repeat all the configuration.
+https://github.com/evelynda1985/hello-world-spring-maven-setup
+
+2. Now we will add some dependecies for this project on the pom.xml file
+
+3. Copy the entities from this link https://github.com/evelynda1985/crud-customer-hibernate-spring
+
+4. 
+
